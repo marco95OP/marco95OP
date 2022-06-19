@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marco95OP
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning some Css & Js
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently working on some projects with JS Frameworks, API and many other stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
